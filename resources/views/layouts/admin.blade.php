@@ -66,7 +66,6 @@
 
 
     <!-- Layout styles -->
-    {{-- <link rel="stylesheet" href="{{ asset('backend/css/demo1/style.css') }}"> --}}
     <link href="<?php echo asset('backend/css/style' . $dark . $rtl . '.css'); ?>" id="app-style" rel="stylesheet" type="text/css">
 
     <link href="<?php echo asset('backend/css/custom' . $dark . $rtl . '.css'); ?>" id="custom-style" rel="stylesheet" type="text/css">
